@@ -8,4 +8,4 @@ HTML5 ve CSS3  kullanılarak yapıldı.
 
 <h2>Ekran Görüntüsü</h2>
 
-![](screeenshot.gif)# artOfWar
+![](screeenshot.gif)
